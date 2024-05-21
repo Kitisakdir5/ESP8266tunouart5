@@ -7,8 +7,8 @@
 
 
 ///////////// ssid password NETPIE2020  //////////////
-const char* ssid = "J_Kitisak_2.4GHz" ;
-const char* password = "08339187951234" ;
+const char* ssid = "*****" ;
+const char* password = "******" ;
 
 ////////////////////  variable int to string ////////////
 int num1 = 0, pushgreen1 = 0, pushred1 = 0 ;
@@ -18,9 +18,9 @@ int allanglerg2 = 0, pgreen1 = 0 , keepallrg2 = 0  ;
 ////////// Client Token Secret for  Device GY521node1 ////////////
 const char* mqtt_server = "broker.netpie.io";
 const int mqtt_port = 1883 ;
-const char* mqtt_Client = "e0713f7b-991b-4a67-978f-00cccacd77c9";
-const char* mqtt_username = "5W1ToyUhgmE46vuAgEmqB73tJjrY1uxA";
-const char* mqtt_password = "Nk7Dul6VhECCPl-u1$Oxn6AvvnzJ4R(2";
+const char* mqtt_Client = "*****";
+const char* mqtt_username = "*****";
+const char* mqtt_password = "*****";
 
 
 char msg[100];  ///////  can increase msg[120]
